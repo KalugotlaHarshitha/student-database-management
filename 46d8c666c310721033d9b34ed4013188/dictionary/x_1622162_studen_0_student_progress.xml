@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6afebfb6c39cb21033d9b34ed40131a0" label="Student Progress" max_length="40" name="x_1622162_studen_0_student_progress" type="collection">
+        <element label="Science" max_length="40" name="science" type="string"/>
+        <element label="Average" max_length="40" name="average" type="string"/>
+        <element label="Hindi" max_length="40" name="hindi" type="string"/>
+        <element label="Telugu Percentage" max_length="40" name="telugu_percentage" type="string"/>
+        <element label="Percentage" max_length="40" name="percentage" type="string"/>
+        <element label="Social Percentage" max_length="40" name="social_percentage" type="string"/>
+        <element label="Social" max_length="40" name="social" type="string"/>
+        <element label="Total grade" max_length="40" name="total_grade" type="string"/>
+        <element label="Result" max_length="40" name="result" type="string"/>
+        <element label="Telugu" max_length="40" name="telugu" type="string"/>
+        <element label="Hindi Percentage" max_length="40" name="hindi_percentage" type="string"/>
+        <element label="Maths Percentage" max_length="40" name="maths_percentage" type="string"/>
+        <element label="English" max_length="40" name="english" type="string"/>
+        <element label="Maths" max_length="40" name="maths" type="string"/>
+        <element label="Admission Number" max_length="32" name="admission_number" reference="x_1622162_studen_0_education" type="reference"/>
+        <element label="English Percentage" max_length="40" name="english_percentage" type="string"/>
+        <element label="Science Percentage" max_length="40" name="science_percentage" type="string"/>
+        <element label="Total" max_length="40" name="total" type="string"/>
+        <index name="index">
+            <element name="admission_number"/>
+        </index>
+    </element>
+</database>

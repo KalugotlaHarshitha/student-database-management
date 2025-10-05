@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3c0138cbc390f21033d9b34ed40131ca" label="Student Fee Details" max_length="40" name="x_1622162_studen_0_student_fee_details" type="collection">
+        <element label="April" max_length="40" name="april" type="integer"/>
+        <element label="October" max_length="40" name="october" type="integer"/>
+        <element choice="1" label="Installment Type" max_length="40" name="installment_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Monthly" sequence="200" value="onth"/>
+                <element inactive_on_update="false" label="Term Wise" sequence="100" value="term"/>
+            </choice>
+        </element>
+        <element label="November" max_length="40" name="november" type="integer"/>
+        <element label="July" max_length="40" name="july" type="integer"/>
+        <element label="I Term" max_length="40" name="i_term" type="integer"/>
+        <element label="August" max_length="40" name="august" type="integer"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Febraury" max_length="40" name="febraury" type="integer"/>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" type="string" use_dynamic_default="true"/>
+        <element label="December" max_length="40" name="december" type="integer"/>
+        <element label="June" max_length="40" name="june" type="integer"/>
+        <element label="II Term" max_length="40" name="ii_term" type="integer"/>
+        <element label="III Term" max_length="40" name="iii_term" type="integer"/>
+        <element label="Fee" max_length="40" name="fee" type="integer"/>
+        <element label="March" max_length="40" name="march" type="integer"/>
+        <element label="September" max_length="40" name="september" type="integer"/>
+        <element label="Admission Number" max_length="32" name="admission_number" reference="x_1622162_studen_0_education" type="reference"/>
+        <element choice="1" label="Payment Type" max_length="40" name="payment_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Installment" sequence="0" value="install"/>
+                <element inactive_on_update="false" label="At A Time" sequence="1" value="atatime"/>
+            </choice>
+        </element>
+        <element label="January" max_length="40" name="january" type="integer"/>
+        <element label="IV Term" max_length="40" name="iv_term" type="integer"/>
+        <index name="index">
+            <element name="admission_number"/>
+        </index>
+    </element>
+</database>

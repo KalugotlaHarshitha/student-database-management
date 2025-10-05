@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Comments" section_id="d4462776c31cb21033d9b34ed40131d8" sys_domain="global" table="x_1622162_studen_0_admission" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 09:06:09</sys_created_on>
+            <sys_id>20466776c31cb21033d9b34ed4013134</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_1622162_studen_0_admission" sys_domain="global" view="Default view">d4462776c31cb21033d9b34ed40131d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 09:06:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Comments</caption>
+            <header>false</header>
+            <name>x_1622162_studen_0_admission</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 09:06:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4462776c31cb21033d9b34ed40131d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1622162_studen_0_admission</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+            <sys_update_name>sys_ui_section_d4462776c31cb21033d9b34ed40131d8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 09:06:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</application>
+        <file_path/>
+        <instance_id>6caa9f221b49ce58c8432f8dee4bcbe4</instance_id>
+        <instance_name>dev249515</instance_name>
+        <name>sys_ui_section_d4462776c31cb21033d9b34ed40131d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Comments" section_id="d4462776c31cb21033d9b34ed40131d8" sys_domain="global" table="x_1622162_studen_0_admission" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 09:06:09</sys_created_on><sys_id>20466776c31cb21033d9b34ed4013134</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Comments" display_value="Comments" name="x_1622162_studen_0_admission" sys_domain="global" view="Default view">d4462776c31cb21033d9b34ed40131d8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 09:06:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Comments</caption><header>false</header><name>x_1622162_studen_0_admission</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 09:06:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d4462776c31cb21033d9b34ed40131d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1622162_studen_0_admission</sys_name><sys_overrides/><sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package><sys_policy/><sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope><sys_update_name>sys_ui_section_d4462776c31cb21033d9b34ed40131d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 09:06:08</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>354013386</payload_hash>
+        <record_name>Admission</record_name>
+        <reverted_from/>
+        <source>ced8c666c310721033d9b34ed401318c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 09:06:09</sys_created_on>
+        <sys_id>ac466776c31cb21033d9b34ed4013135</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199ae78b35c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 09:06:09</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a4466776511cb210f416a28009e5be35</update_guid>
+        <update_guid_history>a4466776511cb210f416a28009e5be35:354013386</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 09:07:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>7e6cbb3efdfa40aa9f425c1516c6ec41</sys_id>
+        <sys_metadata>d4462776c31cb21033d9b34ed40131d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Comments</sys_name>
+        <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+        <sys_parent display_value="Admission">f05427b2c31cb21033d9b34ed401311e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+        <sys_scope_delete display_value="">5e7946be1ca14b4c9fc4b04720b83919</sys_scope_delete>
+        <sys_update_name>sys_ui_section_d4462776c31cb21033d9b34ed40131d8</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_d4462776c31cb21033d9b34ed40131d8">ac466776c31cb21033d9b34ed4013135</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 09:07:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

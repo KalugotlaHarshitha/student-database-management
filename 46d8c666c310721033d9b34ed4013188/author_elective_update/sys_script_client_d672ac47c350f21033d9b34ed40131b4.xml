@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>telugu</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>telugu grade</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+   // Determine Telugu grade based on marks
+   var x = parseInt(g_form.getValue('telugu')) || 0;
+
+   if (x >= 90) {
+      g_form.setValue('telugu_percentage', 'A1');
+   } 
+   else if (x >= 80) {
+      g_form.setValue('telugu_percentage', 'A2');
+   } 
+   else if (x >= 70) {
+      g_form.setValue('telugu_percentage', 'B1');
+   } 
+   else if (x >= 60) {
+      g_form.setValue('telugu_percentage', 'B2');
+   } 
+   else if (x >= 50) {
+      g_form.setValue('telugu_percentage', 'C1');
+   } 
+   else if (x >= 40) {
+      g_form.setValue('telugu_percentage', 'C2');
+   } 
+   else if (x >= 35) {
+      g_form.setValue('telugu_percentage', 'D');
+   } 
+   else {
+      g_form.setValue('telugu_percentage', 'F');
+   }
+}
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 13:29:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d672ac47c350f21033d9b34ed40131b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>telugu grade</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+        <sys_update_name>sys_script_client_d672ac47c350f21033d9b34ed40131b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 13:29:42</sys_updated_on>
+        <table>x_1622162_studen_0_student_progress</table>
+        <type>onChange</type>
+        <ui_type>1</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</application>
+        <file_path/>
+        <instance_id>6caa9f221b49ce58c8432f8dee4bcbe4</instance_id>
+        <instance_name>dev249515</instance_name>
+        <name>sys_script_client_d672ac47c350f21033d9b34ed40131b4</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;telugu&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;telugu grade&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+   // Determine Telugu grade based on marks
+   var x = parseInt(g_form.getValue('telugu')) || 0;
+
+   if (x &gt;= 90) {
+      g_form.setValue('telugu_percentage', 'A1');
+   } 
+   else if (x &gt;= 80) {
+      g_form.setValue('telugu_percentage', 'A2');
+   } 
+   else if (x &gt;= 70) {
+      g_form.setValue('telugu_percentage', 'B1');
+   } 
+   else if (x &gt;= 60) {
+      g_form.setValue('telugu_percentage', 'B2');
+   } 
+   else if (x &gt;= 50) {
+      g_form.setValue('telugu_percentage', 'C1');
+   } 
+   else if (x &gt;= 40) {
+      g_form.setValue('telugu_percentage', 'C2');
+   } 
+   else if (x &gt;= 35) {
+      g_form.setValue('telugu_percentage', 'D');
+   } 
+   else {
+      g_form.setValue('telugu_percentage', 'F');
+   }
+}
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-10-04 13:29:42&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;d672ac47c350f21033d9b34ed40131b4&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;telugu grade&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Student Database Management" source="x_1622162_studen_0"&gt;46d8c666c310721033d9b34ed4013188&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Student Database Management"&gt;46d8c666c310721033d9b34ed4013188&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_d672ac47c350f21033d9b34ed40131b4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-10-04 13:29:42&lt;/sys_updated_on&gt;&lt;table&gt;x_1622162_studen_0_student_progress&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;1&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1195844371</payload_hash>
+        <record_name>telugu grade</record_name>
+        <reverted_from/>
+        <source>ced8c666c310721033d9b34ed401318c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 13:29:42</sys_created_on>
+        <sys_id>0192e4c7c350f21033d9b34ed401315f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199af69fa900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 13:29:42</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>8592e4c77a50f210c0e796dbb538cd5e</update_guid>
+        <update_guid_history>8592e4c77a50f210c0e796dbb538cd5e:-1195844371</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 13:41:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>a722952d639d40c1bac7b4023a087521</sys_id>
+        <sys_metadata>d672ac47c350f21033d9b34ed40131b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>telugu grade</sys_name>
+        <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+        <sys_parent display_value="Student Progress">6afebfb6c39cb21033d9b34ed40131a0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+        <sys_scope_delete display_value="">5e7946be1ca14b4c9fc4b04720b83919</sys_scope_delete>
+        <sys_update_name>sys_script_client_d672ac47c350f21033d9b34ed40131b4</sys_update_name>
+        <sys_update_version display_value="sys_script_client_d672ac47c350f21033d9b34ed40131b4">0192e4c7c350f21033d9b34ed401315f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 13:41:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

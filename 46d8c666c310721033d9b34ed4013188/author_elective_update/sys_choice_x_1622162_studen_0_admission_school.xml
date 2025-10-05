@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="school" table="x_1622162_studen_0_admission" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>school</element>
+            <name>x_1622162_studen_0_admission</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 09:18:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>school</sys_name>
+            <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+            <sys_update_name>sys_choice_x_1622162_studen_0_admission_school</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 09:18:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>school</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ZPHS</label>
+            <language>en</language>
+            <name>x_1622162_studen_0_admission</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 09:18:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 09:19:34</sys_updated_on>
+            <value>zphs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>school</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PVS</label>
+            <language>en</language>
+            <name>x_1622162_studen_0_admission</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 09:19:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 09:19:38</sys_updated_on>
+            <value>pvs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>school</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SRIT</label>
+            <language>en</language>
+            <name>x_1622162_studen_0_admission</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 09:19:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 09:19:44</sys_updated_on>
+            <value>srit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>school</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GPCET</label>
+            <language>en</language>
+            <name>x_1622162_studen_0_admission</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 09:19:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 09:19:48</sys_updated_on>
+            <value>gpcet</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
