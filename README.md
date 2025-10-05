@@ -26,7 +26,7 @@
 
 🧩 System Tables
 
-Table Name                     	Description
+Table Name   &                  	Description
 
 Education (Base Table) ->	Stores core student details like admission number, name, grade, section, and status.
 
