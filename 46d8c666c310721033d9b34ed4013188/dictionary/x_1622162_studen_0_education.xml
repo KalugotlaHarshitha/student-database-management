@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7ce4beb2c318b21033d9b34ed4013199" label="Education" max_length="40" name="x_1622162_studen_0_education" type="collection">
+        <element label="Student Name" max_length="40" name="student_name" type="string"/>
+        <element label="Mother Cell" max_length="40" name="mother_cell" type="string"/>
+        <element label="Father Cell" max_length="40" name="father_cell" type="string"/>
+        <element label="Admin Date" max_length="40" name="admin_date" type="glide_date"/>
+        <element choice="1" label="Grade" max_length="40" name="grade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="LKG" sequence="2" value="LKG"/>
+                <element inactive_on_update="false" label="III" sequence="6" value="3"/>
+                <element inactive_on_update="false" label="VIII" sequence="11" value="8"/>
+                <element inactive_on_update="false" label="IV" sequence="7" value="4"/>
+                <element inactive_on_update="false" label="IX" sequence="12" value="9"/>
+                <element inactive_on_update="false" label="VI" sequence="9" value="6"/>
+                <element inactive_on_update="false" label="V" sequence="8" value="5"/>
+                <element inactive_on_update="false" label="II" sequence="5" value="2"/>
+                <element inactive_on_update="false" label="X" sequence="13" value="10"/>
+                <element inactive_on_update="false" label="VII" sequence="10" value="7"/>
+                <element inactive_on_update="false" label="UKG" sequence="3" value="UKG"/>
+                <element inactive_on_update="false" label="I" sequence="4" value="1"/>
+                <element inactive_on_update="false" label="Nursary" sequence="1" value="NURSARY"/>
+            </choice>
+        </element>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Admin no" max_length="40" name="admin_no" type="string" use_dynamic_default="true"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Father Name" max_length="40" name="father_name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Mother Name" max_length="40" name="mother_name" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="06e0484bc39cb21033d9b34ed4013162" sys_domain="global" table="x_1622162_studen_0_student_progress" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.student_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 11:03:02</sys_created_on>
+            <sys_id>ec010c4bc39cb21033d9b34ed4013166</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 11:03:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.father_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 11:03:02</sys_created_on>
+            <sys_id>e4010c4bc39cb21033d9b34ed4013167</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 11:03:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.mother_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 11:03:02</sys_created_on>
+            <sys_id>ec010c4bc39cb21033d9b34ed4013167</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 11:03:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 11:03:02</sys_created_on>
+            <sys_id>e4010c4bc39cb21033d9b34ed4013168</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 11:03:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.admin_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 11:03:02</sys_created_on>
+            <sys_id>ec010c4bc39cb21033d9b34ed4013168</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 11:03:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.grade</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 11:03:02</sys_created_on>
+            <sys_id>e4010c4bc39cb21033d9b34ed4013169</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 11:03:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.mother_cell</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 11:03:02</sys_created_on>
+            <sys_id>ec010c4bc39cb21033d9b34ed4013169</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 11:03:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.father_cell</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 11:03:02</sys_created_on>
+            <sys_id>e4010c4bc39cb21033d9b34ed401316a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 11:03:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1622162_studen_0_student_progress</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 11:02:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06e0484bc39cb21033d9b34ed4013162</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1622162_studen_0_student_progress</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+            <sys_update_name>sys_ui_section_06e0484bc39cb21033d9b34ed4013162</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 11:02:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</application>
+        <file_path/>
+        <instance_id>6caa9f221b49ce58c8432f8dee4bcbe4</instance_id>
+        <instance_name>dev249515</instance_name>
+        <name>sys_ui_section_06e0484bc39cb21033d9b34ed4013162</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="06e0484bc39cb21033d9b34ed4013162" sys_domain="global" table="x_1622162_studen_0_student_progress" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>admission_number.student_name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 11:03:02</sys_created_on><sys_id>ec010c4bc39cb21033d9b34ed4013166</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 11:03:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>admission_number.father_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 11:03:02</sys_created_on><sys_id>e4010c4bc39cb21033d9b34ed4013167</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 11:03:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>admission_number.mother_name</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 11:03:02</sys_created_on><sys_id>ec010c4bc39cb21033d9b34ed4013167</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 11:03:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 11:03:02</sys_created_on><sys_id>e4010c4bc39cb21033d9b34ed4013168</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 11:03:02</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>admission_number.admin_date</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 11:03:02</sys_created_on><sys_id>ec010c4bc39cb21033d9b34ed4013168</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 11:03:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>admission_number.grade</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 11:03:02</sys_created_on><sys_id>e4010c4bc39cb21033d9b34ed4013169</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 11:03:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>admission_number.mother_cell</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 11:03:02</sys_created_on><sys_id>ec010c4bc39cb21033d9b34ed4013169</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 11:03:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>admission_number.father_cell</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 11:03:02</sys_created_on><sys_id>e4010c4bc39cb21033d9b34ed401316a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1622162_studen_0_student_progress" sys_domain="global" view="Default view">06e0484bc39cb21033d9b34ed4013162</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 11:03:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1622162_studen_0_student_progress</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-04 11:02:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>06e0484bc39cb21033d9b34ed4013162</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1622162_studen_0_student_progress</sys_name><sys_overrides/><sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package><sys_policy/><sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope><sys_update_name>sys_ui_section_06e0484bc39cb21033d9b34ed4013162</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-04 11:02:34</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1140126796</payload_hash>
+        <record_name>Student Progress</record_name>
+        <reverted_from/>
+        <source>ced8c666c310721033d9b34ed401318c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 11:03:02</sys_created_on>
+        <sys_id>bc010c4bc39cb21033d9b34ed401316c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199aee3b3b50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 11:03:02</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>34010c4bf89cb2100aaf77e8259cc06c</update_guid>
+        <update_guid_history>34010c4bf89cb2100aaf77e8259cc06c:-1140126796,c6e0484b5f9cb21084099a17336209b9:-1964152431</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 11:03:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>51b7ec2a8ddd4c3d8e167f3a3b6eaa51</sys_id>
+        <sys_metadata>06e0484bc39cb21033d9b34ed4013162</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+        <sys_parent display_value="Student Progress">6afebfb6c39cb21033d9b34ed40131a0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+        <sys_scope_delete display_value="">5e7946be1ca14b4c9fc4b04720b83919</sys_scope_delete>
+        <sys_update_name>sys_ui_section_06e0484bc39cb21033d9b34ed4013162</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_06e0484bc39cb21033d9b34ed4013162">bc010c4bc39cb21033d9b34ed401316c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 11:03:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

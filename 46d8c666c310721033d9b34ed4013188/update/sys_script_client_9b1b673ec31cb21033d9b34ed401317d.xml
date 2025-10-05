@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>admission_number</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Autopopulate </name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    // Fetch the record reference asynchronously
+    g_form.getReference('admission_number', function(ve) {
+        if (!ve) return; // safety check
+
+        // Set the form values based on the reference
+        g_form.setValue('admin_date', ve.admin_date);
+        g_form.setValue('student_name', ve.student_name);
+        g_form.setValue('grade', ve.grade);
+        g_form.setValue('father_name', ve.father_name);
+        g_form.setValue('father_cell', ve.father_cell);
+        g_form.setValue('mother_name', ve.mother_name);
+        g_form.setValue('mother_cell', ve.mother_cell);
+
+        // Disable the fields to make them read-only
+        var fields = ['admin_date', 'student_name', 'grade', 'father_name', 'father_cell', 'mother_name', 'mother_cell'];
+        fields.forEach(function(f) {
+            g_form.setDisabled(f, true);
+        });
+    });
+}
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 09:34:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b1b673ec31cb21033d9b34ed401317d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Autopopulate </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+        <sys_update_name>sys_script_client_9b1b673ec31cb21033d9b34ed401317d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 09:44:02</sys_updated_on>
+        <table>x_1622162_studen_0_admission</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

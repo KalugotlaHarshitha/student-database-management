@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1622162_studen_0_education">x_1622162_studen_0_education</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>STU</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 06:00:01</sys_created_on>
+        <sys_id>f18b3efac318b21033d9b34ed401318b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STU</sys_name>
+        <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+        <sys_update_name>sys_number_f18b3efac318b21033d9b34ed401318b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 06:00:01</sys_updated_on>
+    </sys_number>
+</record_update>

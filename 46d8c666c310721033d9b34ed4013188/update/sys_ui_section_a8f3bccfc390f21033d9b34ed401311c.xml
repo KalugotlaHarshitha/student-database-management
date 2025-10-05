@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a8f3bccfc390f21033d9b34ed401311c" sys_domain="global" table="x_1622162_studen_0_student_fee_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.admin_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.father_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.mother_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payment_type</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.grade</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.student_name</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.father_cell</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_number.mother_cell</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fee</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>installment_type</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>i_term</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>iii_term</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ii_term</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>iv_term</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>324bb08bc3d0f21033d9b34ed40131e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>june</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>3a4bb08bc3d0f21033d9b34ed40131e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>august</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>034bb08bc3d0f21033d9b34ed40131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>october</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>0b4bb08bc3d0f21033d9b34ed40131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>december</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>034bb08bc3d0f21033d9b34ed40131e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>febraury</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>0b4bb08bc3d0f21033d9b34ed40131e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>april</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>034bb08bc3d0f21033d9b34ed40131e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>0b4bb08bc3d0f21033d9b34ed40131e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>july</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>034bb08bc3d0f21033d9b34ed40131e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>september</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>0b4bb08bc3d0f21033d9b34ed40131e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>november</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>034bb08bc3d0f21033d9b34ed40131e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>january</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>0b4bb08bc3d0f21033d9b34ed40131e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>march</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 15:17:41</sys_created_on>
+            <sys_id>034bb08bc3d0f21033d9b34ed40131e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1622162_studen_0_student_fee_details" sys_domain="global" view="Default view">a8f3bccfc390f21033d9b34ed401311c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 15:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1622162_studen_0_student_fee_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-04 14:45:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8f3bccfc390f21033d9b34ed401311c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1622162_studen_0_student_fee_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Student Database Management" source="x_1622162_studen_0">46d8c666c310721033d9b34ed4013188</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student Database Management">46d8c666c310721033d9b34ed4013188</sys_scope>
+            <sys_update_name>sys_ui_section_a8f3bccfc390f21033d9b34ed401311c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-04 14:45:34</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
