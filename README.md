@@ -57,24 +57,24 @@ Student Progress	Records marks, percentage, and remarks for each subject and ter
 
 1️⃣ Auto Fee Calculation
 
-• Fee populated automatically based on grade.
+   • Fee populated automatically based on grade.
 
-• Quarterly/monthly installments auto-generated.
+   • Quarterly/monthly installments auto-generated.
 
 
 2️⃣ Student Admission Entry
 
-• Enter admission details, guardian info, and grade easily.
+   • Enter admission details, guardian info, and grade easily.
 
 3️⃣ Progress Tracking
 
-• Teachers can record marks and remarks.
+   • Teachers can record marks and remarks.
 
-• Percentages automatically calculated.
+   • Percentages automatically calculated.
 
 4️⃣ Field Control
 
-• Prevents editing of fee-related fields to maintain accuracy.
+   • Prevents editing of fee-related fields to maintain accuracy.
 
 
 ---
