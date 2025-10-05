@@ -3,6 +3,7 @@
 📌 Overview
 
 • The Student Management System is a ServiceNow-based application designed to efficiently manage student information, fee details, and academic progress.
+
 • It streamlines the entire process of student admission, fee calculation, and performance tracking through automated workflows and user-friendly dashboards.
 
 
@@ -13,8 +14,11 @@
 • 🧑‍🎓 Student Information Management — Maintain complete student records including admission, personal, and guardian details.
 
 • 💰 Automated Fee Calculation — Fees auto-calculated based on grade and installment type (quarterly or monthly).
+
 • 📈 Progress Tracking — Track student performance across subjects and terms with auto-calculated percentages.
+
 • ⚙ Automation — Workflows to reduce manual errors and improve data accuracy.
+
 • 🔒 Field Control — Prevents manual modification of calculated fee and installment fields.
 
 
