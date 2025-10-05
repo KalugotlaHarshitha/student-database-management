@@ -11,6 +11,7 @@
 🚀 Features
 
 • 🧑‍🎓 Student Information Management — Maintain complete student records including admission, personal, and guardian details.
+
 • 💰 Automated Fee Calculation — Fees auto-calculated based on grade and installment type (quarterly or monthly).
 • 📈 Progress Tracking — Track student performance across subjects and terms with auto-calculated percentages.
 • ⚙ Automation — Workflows to reduce manual errors and improve data accuracy.
