@@ -26,15 +26,15 @@
 
 🧩 System Tables
 
-Table Name	Description
+Table Name                     	Description
 
-Education (Base Table)	Stores core student details like admission number, name, grade, section, and status.
+Education (Base Table) ->	Stores core student details like admission number, name, grade, section, and status.
 
-Admission	Stores guardian information, contact details, and admission data linked to the Education table.
+Admission	           ->  Stores guardian information, contact details, and admission data linked to the Education table.
 
-Student Fee Details	Handles fee structure, installment types, and auto-calculation logic.
+Student Fee Details	  ->  Handles fee structure, installment types, and auto-calculation logic.
 
-Student Progress	Records marks, percentage, and remarks for each subject and term.
+Student Progress       ->	Records marks, percentage, and remarks for each subject and term.
 
 
 
